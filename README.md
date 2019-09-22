@@ -26,7 +26,7 @@ LeetCode JavaScript version
 - [LeetCode 350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 - [LeetCode 334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
 - [LeetCode 240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
-- [LeetCode 238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/move-zeroes/)
+- [LeetCode 238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 
 **3、LinkedList（链表）**
 
