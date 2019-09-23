@@ -21,23 +21,24 @@ LeetCode JavaScript version
 - [LeetCode 169. 求众数](https://leetcode-cn.com/problems/majority-element/)
 - [LeetCode 189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 - [LeetCode 217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
-- [LeetCode 283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
-- [LeetCode 384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)
-- [LeetCode 350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
-- [LeetCode 334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
-- [LeetCode 240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - [LeetCode 238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
+- [LeetCode 240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+- [LeetCode 283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+- [LeetCode 334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+- [LeetCode 350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+- [LeetCode 384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)
+
 
 **3、LinkedList（链表）**
 
-- LeetCode 138. 复制带随机指针的链表
-- LeetCode 141. 环形链表
-- LeetCode 148. 排序链表
-- LeetCode 160. 相交链表
-- LeetCode 206. 反转链表
-- LeetCode 234. 回文链表
-- LeetCode 237. 删除链表中的节点
-- LeetCode 328. 奇偶链表
+- [LeetCode 138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- [LeetCode 141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [LeetCode 148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+- [LeetCode 160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+- [LeetCode 206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [LeetCode 234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+- [LeetCode 237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+- [LeetCode 328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 
 **4、stack（堆）**
 
