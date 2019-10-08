@@ -40,53 +40,48 @@ LeetCode JavaScript version
 - [LeetCode 237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
 - [LeetCode 328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 
-**4、stack（堆）**
+**4、heap/stack（堆/栈）**
 
 - [LeetCode 155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 - [LeetCode 215. 数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - [LeetCode 295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 - [LeetCode 378. 有序矩阵中第 k 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [LeetCode 347. 前 K 个高频元素](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+- [LeetCode 150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+- [LeetCode 227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
+- [LeetCode 341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 
-**5、栈**
-
-- LeetCode 150. 逆波兰表达式求值
-- LeetCode 227. 基本计算器 II
-- LeetCode 341. 扁平化嵌套列表迭代器
-
-**6、Hash/Map**
+**5、Hash/Map**
 
 - LeetCode 171. Excel 表列序号
 - LeetCode 454. 四数相加 II
 - LeetCode 380. 常数事件插入、删除和获取随机元素
 
-**7、Queue（队列）**
+**6、Queue（队列）**
 
 - LeetCode 239. 滑动窗口最大值
+- LeetCode 395. 至少有 K 个重复字符的最长子串
 
-**8、Tree（树）**
+**7、Tree（树）**
 
 - LeetCode 230. 二叉搜索树中第 K 小的元素
 - LeetCode 236. 二叉树的最近公共祖先
 - LeetCode 297. 二叉树的序列化与反序列化
 - LeetCode 218. 天际线问题
 
-**9、Sort（排序）**
+**8、Sort（排序）**
 
 - LeetCode 179. 最大数
 - LeetCode 324. 摆动排序 II
 
-**10、BinarySearch（二分检索）**
+**9、BinarySearch（二分检索）**
 
 - LeetCode 162. 寻找峰值
 - LeetCode 287. 寻找重复数
 - LeetCode 315. 计算右侧小于当前元素的个数
 
-**11、SlidingWindow（滑动窗口）**
 
-- LeetCode 395. 至少有 K 个重复字符的最长子串
-
-**12、DynamicPlanning（动态规划）**
+**10、DynamicPlanning（动态规划）**
 
 - LeetCode 124. 二叉树中的最大路径和
 - LeetCode 128. 最长连续序列
@@ -96,14 +91,14 @@ LeetCode JavaScript version
 - LeetCode 322. 零钱兑换
 - LeetCode 329. 矩阵中的最长递增路径
 
-**13、Graph（图论）**
+**11、Graph（图论）**
 
 - LeetCode 127. 单词接龙
 - LeetCode 200. 岛屿的个数
 - LeetCode 207. 课程表
 - LeetCode 210. 课程表 II
 
-**14、Math（数学&位运算）**
+**12、Math（数学&位运算）**
 
 - LeetCode 136. 只出现一次的数字
 - LeetCode 149. 只显示最多的点数
@@ -115,7 +110,7 @@ LeetCode JavaScript version
 - LeetCode 268. 缺失数字
 - LeetCode 326. 3 的幂
 
-**15、String（字符串）**
+**13、String（字符串）**
 
 - LeetCode 125. 验证回文串
 - LeetCode 131. 分割回文串
