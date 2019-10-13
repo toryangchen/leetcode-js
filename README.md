@@ -42,12 +42,12 @@ LeetCode JavaScript version
 
 **4、heap/stack（堆/栈）**
 
+- [LeetCode 150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - [LeetCode 155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
 - [LeetCode 215. 数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - [LeetCode 295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 - [LeetCode 347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 - [LeetCode 378. 有序矩阵中第 k 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [LeetCode 150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - [LeetCode 227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - [LeetCode 341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 
