@@ -29,4 +29,13 @@
 
 ## 解题思路
 
-暂时不清楚这句话的意思： num = num * 10 + s[i].charCodeAt(0) - '0'.charCodeAt(0);
+解题需要注意两个点：
+
+1. 具体执行运算num的获取：`num = num * 10 + s[i].charCodeAt(0) - '0'.charCodeAt(0);`这里主要是为了获取数字，由于for循环是从String中一个一个拿char，所以这里要取多位数数字。charCodeAt是取ascii码，`s[i].charCodeAt(0) - '0'.charCodeAt(0)`意思是通过ascii码来取具体数字；
+2. 加减乘除的执行时机，加和减分别使用正负号添加，乘和除均立即执行；
+
+## 刷题记录
+
+- [x] 首刷：10.13/10.14
+- [ ] 二刷：
+- [ ] 三刷：

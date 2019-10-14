@@ -36,3 +36,5 @@ var calculate = function(s) {
 	}
 	return stack.reduce((a, b) => a + b);
 };
+
+console.log(calculate("12 / 3"));
