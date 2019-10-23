@@ -61,7 +61,6 @@ LeetCode JavaScript version
 
 **6、Tree/Sort/BinarySearch**
 
-- [LeetCode 218. 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/)
 - [LeetCode 230. 二叉搜索树中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 - [LeetCode 236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [LeetCode 297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
