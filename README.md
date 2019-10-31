@@ -73,13 +73,13 @@ LeetCode JavaScript version
 
 **7、DynamicPlanning（动态规划）**
 
-- LeetCode 124. 二叉树中的最大路径和
-- LeetCode 128. 最长连续序列
-- LeetCode 198. 打家劫舍
-- LeetCode 279. 完全平方数
-- LeetCode 300. 最长上升子序列
-- LeetCode 322. 零钱兑换
-- LeetCode 329. 矩阵中的最长递增路径
+- [LeetCode 124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+- [LeetCode 128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+- [LeetCode 198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+- [LeetCode 279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
+- [LeetCode 300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [LeetCode 322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+- [LeetCode 329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
 
 **8、Graph（图论）**
 
