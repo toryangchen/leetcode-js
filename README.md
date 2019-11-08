@@ -83,10 +83,10 @@ LeetCode JavaScript version
 
 **8、Graph（图论）**
 
-- LeetCode 127. 单词接龙
-- LeetCode 200. 岛屿的个数
-- LeetCode 207. 课程表
-- LeetCode 210. 课程表 II
+- [LeetCode 127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)
+- [LeetCode 200. 岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/)
+- [LeetCode 207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
+- [LeetCode 210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
 
 **9、Math（数学&位运算）**
 
