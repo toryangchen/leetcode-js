@@ -90,15 +90,15 @@ LeetCode JavaScript version
 
 **9、Math（数学&位运算）**
 
-- LeetCode 136. 只出现一次的数字
-- LeetCode 149. 只显示最多的点数
-- LeetCode 166. 分数到小数
-- LeetCode 172. 阶乘后的零
-- LeetCode 190. 颠倒二进制位
-- LeetCode 191. 位 1 的个数
-- LeetCode 204. 计数质数
-- LeetCode 268. 缺失数字
-- LeetCode 326. 3 的幂
+- [LeetCode 136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+- [LeetCode 149. 只显示最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)
+- [LeetCode 166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)
+- [LeetCode 172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
+- [LeetCode 190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [LeetCode 191. 位 1 的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [LeetCode 204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
+- [LeetCode 268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
+- [LeetCode 326. 3 的幂](https://leetcode-cn.com/problems/power-of-three/)
 
 **10、String（字符串）**
 
