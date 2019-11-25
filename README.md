@@ -105,7 +105,6 @@ LeetCode JavaScript version
 - [LeetCode 125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 - [LeetCode 131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 - [LeetCode 139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
-- [LeetCode 140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)
 - [LeetCode 208. 实现 Trie(前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
 - [LeetCode 212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 - [LeetCode 242. 有效地字母异位词](https://leetcode-cn.com/problems/valid-anagram/)

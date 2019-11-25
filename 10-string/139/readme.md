@@ -32,3 +32,12 @@
 输入: s = "catsandog", wordDict = ["cats", "dog", "sand", "and", "cat"]
 输出: false
 ```
+
+## 解题思路
+
+
+## 刷题记录
+
+- [x] 首刷：11.24
+- [ ] 二刷：
+- [ ] 三刷：
