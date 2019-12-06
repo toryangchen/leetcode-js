@@ -1,8 +1,10 @@
-# leetcode-js
+# LeetCode 刷题记录
 
 LeetCode JavaScript version
 
-为提高自己 JS 的编程能力，准备开始用 JS 做 LeetCode 的题目，选择下面 15 个类型的题目。每天一道！
+为提高自己 JS 的编程能力，准备开始用 JS 做 LeetCode 的题目，选择下面 10 个类型的题目。每天一道！
+
+经过两个多月的时间完成了七十多道题目，也算是有点收获。至少我独立完成了 [算法：「文件路径」转为「文件夹层级」]() 这道题目。
 
 #### LeetCode 题目
 
@@ -14,6 +16,8 @@ LeetCode JavaScript version
 - [LeetCode 289. 生命游戏](https://github.com/toryangchen/leetcode-js/tree/master/1-simulation/289)
 - [LeetCode 371. 两整数之和](https://github.com/toryangchen/leetcode-js/tree/master/1-simulation/371)
 - [LeetCode 412. Fizz Buzz](https://github.com/toryangchen/leetcode-js/tree/master/1-simulation/412)
+
+[第一章总结](https://github.com/toryangchen/leetcode-js/tree/master/1-simulation)
 
 **2、Array（数组）**
 
@@ -28,6 +32,7 @@ LeetCode JavaScript version
 - [LeetCode 350. 两个数组的交集 II](https://github.com/toryangchen/leetcode-js/tree/master/2-array/350)
 - [LeetCode 384. 打乱数组](https://github.com/toryangchen/leetcode-js/tree/master/2-array/384)
 
+[第二章总结](https://github.com/toryangchen/leetcode-js/tree/master/2-array)
 
 **3、LinkedList（链表）**
 
@@ -40,6 +45,8 @@ LeetCode JavaScript version
 - [LeetCode 237. 删除链表中的节点](https://github.com/toryangchen/leetcode-js/tree/master/3-LinkedList/237)
 - [LeetCode 328. 奇偶链表](https://github.com/toryangchen/leetcode-js/tree/master/3-LinkedList/328)
 
+[第三章总结](https://github.com/toryangchen/leetcode-js/tree/master/3-LinkedList)
+
 **4、heap/stack（堆/栈）**
 
 - [LeetCode 150. 逆波兰表达式求值](https://github.com/toryangchen/leetcode-js/tree/master/4-heap&stack/150)
@@ -51,6 +58,8 @@ LeetCode JavaScript version
 - [LeetCode 347. 前 K 个高频元素](https://github.com/toryangchen/leetcode-js/tree/master/4-heap&stack/347)
 - [LeetCode 378. 有序矩阵中第 k 小的元素](https://github.com/toryangchen/leetcode-js/tree/master/4-heap&stack/378)
 
+[第四章总结](https://github.com/toryangchen/leetcode-js/tree/master/4-heap%26stack)
+
 **5、Hash/Map/Queue**
 
 - [LeetCode 171. Excel 表列序号](https://github.com/toryangchen/leetcode-js/5-hash&map&queue/171)
@@ -58,6 +67,8 @@ LeetCode JavaScript version
 - [LeetCode 380. 常数事件插入、删除和获取随机元素](https://github.com/toryangchen/leetcode-js/5-hash&map&queue/380)
 - [LeetCode 395. 至少有 K 个重复字符的最长子串](https://github.com/toryangchen/leetcode-js/5-hash&map&queue/395)
 - [LeetCode 454. 四数相加 II](https://github.com/toryangchen/leetcode-js/5-hash&map&queue/454)
+
+[第五章总结](https://github.com/toryangchen/leetcode-js/tree/master/5-hash%26map%26queue)
 
 **6、Tree/Sort/BinarySearch**
 
@@ -70,6 +81,7 @@ LeetCode JavaScript version
 - [LeetCode 287. 寻找重复数](https://github.com/toryangchen/leetcode-js/6-tree&sort&binarysearch/287)
 - [LeetCode 315. 计算右侧小于当前元素的个数](https://github.com/toryangchen/leetcode-js/6-tree&sort&binarysearch/315)
 
+[第六章总结](https://github.com/toryangchen/leetcode-js/tree/master/6-tree%26sort%26binarysearch)
 
 **7、DynamicPlanning（动态规划）**
 
@@ -81,12 +93,16 @@ LeetCode JavaScript version
 - [LeetCode 322. 零钱兑换](https://github.com/toryangchen/leetcode-js/7-dynamic-planning/322)
 - [LeetCode 329. 矩阵中的最长递增路径](https://github.com/toryangchen/leetcode-js/7-dynamic-planning/329)
 
+动态规划的题目做得不多，后面做得多了再写吧；
+
 **8、Graph（图论）**
 
 - [LeetCode 127. 单词接龙](https://github.com/toryangchen/leetcode-js/8-graph/127)
 - [LeetCode 200. 岛屿的个数](https://github.com/toryangchen/leetcode-js/8-graph/200)
 - [LeetCode 207. 课程表](https://github.com/toryangchen/leetcode-js/8-graph/207)
 - [LeetCode 210. 课程表 II](https://github.com/toryangchen/leetcode-js/8-graph/210)
+
+这一章的题目大多用到DFS或BFS，做起来很耗时耗力....
 
 **9、Math（数学&位运算）**
 
@@ -100,6 +116,8 @@ LeetCode JavaScript version
 - [LeetCode 268. 缺失数字](https://github.com/toryangchen/leetcode-js/9-math/268)
 - [LeetCode 326. 3 的幂](https://github.com/toryangchen/leetcode-js/9-math/326)
 
+[第九章总结](https://github.com/toryangchen/leetcode-js/tree/master/9-math)
+
 **10、String（字符串）**
 
 - [LeetCode 125. 验证回文串](https://github.com/toryangchen/leetcode-js/10-string/125)
@@ -110,3 +128,5 @@ LeetCode JavaScript version
 - [LeetCode 242. 有效地字母异位词](https://github.com/toryangchen/leetcode-js/10-string/242)
 - [LeetCode 387. 字符串中的第一个唯一字符](https://github.com/toryangchen/leetcode-js/10-string/387)
 - [LeetCode 344. 反转字符串](https://github.com/toryangchen/leetcode-js/10-string/344)
+
+[第十章总结](https://github.com/toryangchen/leetcode-js/tree/master/10-string)
