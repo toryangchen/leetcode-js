@@ -3,4 +3,17 @@
 
 function jumpFloor(number) {
   // write code here
+  if (number <= 2) {
+    return number;
+  }
+  let i = 1,
+    j = 2,
+    res = 0;
+
+  for (let x = 3; x <= number; x++) {
+    res = i + j;
+    i = j;
+    j = res;
+  }
+  return res;
 }
